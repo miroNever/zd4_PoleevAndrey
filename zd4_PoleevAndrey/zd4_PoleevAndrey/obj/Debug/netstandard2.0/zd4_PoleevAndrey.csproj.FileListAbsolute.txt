@@ -1,0 +1,17 @@
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\bin\Debug\netstandard2.0\zd4_PoleevAndrey.deps.json
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\bin\Debug\netstandard2.0\zd4_PoleevAndrey.dll
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\bin\Debug\netstandard2.0\ref\zd4_PoleevAndrey.dll
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\bin\Debug\netstandard2.0\zd4_PoleevAndrey.pdb
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.csproj.AssemblyReference.cache
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.AssemblyInfoInputs.cache
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.AssemblyInfo.cs
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.csproj.CoreCompileInputs.cache
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.dll
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\ref\zd4_PoleevAndrey.dll
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\zd4_PoleevAndrey.pdb
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\Calculotor.xaml.g.cs
+C:\AndroidStudio_projects\AndreyPoleev_pr21\zd4_PoleevAndrey\zd4_PoleevAndrey\obj\Debug\netstandard2.0\Page2.xaml.g.cs

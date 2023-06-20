@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_PoleevAndrey.Page2"
+             Title="Курсы валют">
+    <ContentPage.Content>
+        
+    <StackLayout Orientation="Vertical">
+
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout Orientation="Vertical">
+                    
+                    <Label Text="Центробанк РФ:" Margin="10,40,0,0" FontSize="20"/>
+
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="USD" FontSize="Large" Margin="10,20,0,10" FontAttributes="Bold" TextDecorations="Underline"/>
+                        <Entry x:Name="usdEntry" Placeholder="Введите курс доллара" TextChanged="USDChanged"/>
+                    </StackLayout>
+                    
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="EUR" FontSize="Large" Margin="10,20,0,10" FontAttributes="Bold" TextDecorations="Underline"/>
+                        <Label x:Name="eurLabel" Text="86.000" TextDecorations="Underline" FontSize="Large" Margin="10, 20, 0,10"/>
+                    </StackLayout>
+                    
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" Margin="20">
+                    <Label Text="Текущая дата" FontAttributes="Bold" TextDecorations="Underline" FontSize="20" Margin="10,10,0,0"/> 
+                    <DatePicker FontAttributes="Bold"/>
+                </StackLayout>
+                
+            </StackLayout>
+        
+        </StackLayout>
+        
+    </ContentPage.Content>
+        
+</ContentPage>
